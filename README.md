@@ -20,7 +20,7 @@
 
 ## Структура проєкту
 ```
-goit-algo2-hw-06/
+woolf-algo2-hw-06/
 ├── mapreduce_wordcount.py
 ├── requirements.txt
 ├── README.md
